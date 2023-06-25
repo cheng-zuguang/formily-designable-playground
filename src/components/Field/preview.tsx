@@ -1,3 +1,6 @@
+// @ts-ignore
+import React from 'react'
+
 import { FormPath } from '@formily/core'
 import { toJS } from '@formily/reactive'
 import {

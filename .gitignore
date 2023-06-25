@@ -109,3 +109,5 @@ buildServer
 
 # Customize
 .history
+
+pnpm-lock.yaml
